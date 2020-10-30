@@ -29,7 +29,7 @@ If you have started to receive a `app:mergeDexDebug` error after adding Cloud Fi
 [Enabling Multidex](/enabling-multidex) documentation for more information on how to resolve this error.
 
 # What does it do
-
+Hi fantastic fantasy in a while ago but the same
 Firestore is a flexible, scalable NoSQL cloud database to store and sync data. It keeps your data in sync across client
 apps through realtime listeners and offers offline support so you can build responsive apps that work regardless of network
 latency or Internet connectivity.
